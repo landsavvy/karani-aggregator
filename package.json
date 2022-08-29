@@ -1,0 +1,17 @@
+{
+  "name": "aggregator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aggregator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "kafkajs": "^1.12.0",
+    "mongoose": "^5.9.25"
+  }
+}
